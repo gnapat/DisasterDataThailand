@@ -2,8 +2,6 @@
 DisasterDataThailand
 
 My name is Napat Phongvichian a mature student pursuing an MSc degree in Data Analytics and Data Science.
-I have a passion in sciences, especially those related to Earth Science and natural hazards. Lately, I take an interest in global warming. 
-You can see my list of publications in this link https://scholar.google.co.th/citations?user=l6B4VrgAAAAJ&hl=en
 
 In this mini project I use average monthly rainfall data from rain stations across Thailand, from 1987 to (August) 2022.
 My goal is to look at a long-term trend of rainfall in Thailand and analyse data to see if it is related to global warming.
